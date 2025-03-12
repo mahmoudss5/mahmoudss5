@@ -14,7 +14,7 @@ University](https://www.helwan.edu.eg/).
 <p align="center">
     <a href="mailto:mahmood444e@gmail.com"><img
             src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https:www.linkedin.com/in/mahmoud-aziz-5a165b298">
+    <a href="https://www.linkedin.com/in/mahmoud-aziz-5a165b298">
         <img
             src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
@@ -61,11 +61,11 @@ University](https://www.helwan.edu.eg/).
         <img src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white">
     </a>
     &emsp;
-    <a href="https://codeforces.com/profile/Z.I.A.D">
+    <a href="https://codeforces.com/profile/mahmoud_aziz">
         <img src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white">
     </a>
          &emsp;
-    <a href="https://leetcode.com/Z_I_A_D7/">
+    <a href="https://leetcode.com/u/mahmoudsasky/">
         <img src="https://img.shields.io/badge/LeetCode%20-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=white">
     </a>
     &emsp;
@@ -75,15 +75,3 @@ University](https://www.helwan.edu.eg/).
 </p>
 
 <br>
-<!--
-**mahmoudss5/mahmoudss5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
