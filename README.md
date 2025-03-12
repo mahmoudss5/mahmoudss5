@@ -72,6 +72,22 @@ University](https://www.helwan.edu.eg/).
     <a href="#">
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     </a>
+    &emsp;
+    <a href="#">
+        <img src="https://img.shields.io/badge/PHP-%237A4E9D.svg?style=for-the-badge&logo=php&logoColor=white">
+    </a>
+    &emsp;
+    <a href="#">
+        <img src="https://img.shields.io/badge/Linux-%2326CC42.svg?style=for-the-badge&logo=linux&logoColor=white">
+    </a>
+    &emsp;
+    <a href="#">
+        <img src="https://img.shields.io/badge/problem%20solving-%23000000.svg?style=for-the-badge&logo=codeforces&logoColor=white">
+    </a>
+    &emsp;
+    <a href="#">
+        <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    </a>
 </p>
 
 <br>
