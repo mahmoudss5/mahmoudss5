@@ -14,7 +14,7 @@ University](https://www.helwan.edu.eg/).
 <p align="center">
     <a href="mailto:mahmood444e@gmail.com"><img
             src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="[https://www.linkedin.com/in/ziad-ashraf-59a3772a4/](https://www.linkedin.com/in/mahmoud-aziz-5a165b298/)">
+    <a href="https:www.linkedin.com/in/mahmoud-aziz-5a165b298">
         <img
             src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
