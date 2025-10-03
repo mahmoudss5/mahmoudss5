@@ -9,7 +9,7 @@
 - 🏫 I am a `Junior` from the [Faculty of Computers and Artificial Intelligence](https://www.helwan.edu.eg/en/faculty-of-computers-and-artificial-intelligence/) at [Helwan University](https://www.helwan.edu.eg/).  
 
 - 👨‍🎓 I’m currently learning `Frontend` and `Backend (Spring Boot)`.  
-
+- 📚 I have a strong passion for problem-solving and enjoy tackling challenges in competitive programming and data structures & algorithms.
 - 👨‍🏫 I am an `Instructor` at **ICPC Helwan Community**.  
 
 - 🚀 I am also the `Head of Mentors` at **ICPC Helwan Community**.  
@@ -23,9 +23,9 @@
 - **AtCoder**: Brown  
 - Strong background in **Competitive Programming** and **Problem Solving**  
 <br>
-## 📚 Problem Solving
-- Solved **~2000 problems** across various platforms.  
-- Covered a wide range of topics in **Data Structures** and **Advanced Algorithms**.  
+ 📚 Problem Solving
+- Solved ~2000 problems across various platforms.  
+- Covered a wide range of topics in <h1>Data Structures</h1> and <h1>Advanced Algorithms</h1>.  
 
 
 <br>
