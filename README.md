@@ -25,7 +25,7 @@
 <br>
  📚 Problem Solving
 - Solved ~2000 problems across various platforms.  
-- Covered a wide range of topics in <h1>Data Structures</h1> and <h1>Advanced Algorithms</h1>.  
+- Covered a wide range of topics in <strong>Data Structures</strong> and <strong>Advanced Algorithms</strong>.  
 
 
 <br>
