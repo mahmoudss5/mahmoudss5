@@ -2,14 +2,14 @@
 ## 🌟 About me
 <p align="center">
     <a href="https://git.io/typing-svg"><img
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&center=true&vCenter=true&random=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Software+Engineer"/></a>
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&center=true&vCenter=true&random=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Software+Engineer;Instructor;Head+of+Mentors+at+ICPC+Helwan+Community"/></a>
 </p>
 
 - 🏫 I am a `Junior` from the [Faculty of Computers and Artificial
 Intelligence](https://www.helwan.edu.eg/en/faculty-of-computers-and-artificial-intelligence/) at [Helwan
 University](https://www.helwan.edu.eg/).
 
-- 👨‍🎓 I’m currently learning `Computer Science` and `Software Engineering`.
+- 👨‍🎓 I’m currently learning `Frontend` and `Backend (Spring Boot)`.
 
 <br>
 
@@ -42,6 +42,26 @@ University](https://www.helwan.edu.eg/).
     </a>
     &emsp;
     <a href="#">
+        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+    </a>
+    &emsp;
+    <a href="#">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    </a>
+    &emsp;
+    <a href="#">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    </a>
+    &emsp;
+    <a href="#">
+        <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+    </a>
+    &emsp;
+    <a href="#">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+    </a>
+    &emsp;
+    <a href="#">
         <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     </a>
     &emsp;
@@ -68,7 +88,7 @@ University](https://www.helwan.edu.eg/).
     <a href="https://codeforces.com/profile/mahmoud_aziz">
         <img src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white">
     </a>
-         &emsp;
+    &emsp;
     <a href="https://leetcode.com/u/mahmoudsasky/">
         <img src="https://img.shields.io/badge/LeetCode%20-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=white">
     </a>
@@ -93,5 +113,3 @@ University](https://www.helwan.edu.eg/).
         <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
     </a>
 </p>
-
-<br>
