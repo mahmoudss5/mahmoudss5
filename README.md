@@ -22,12 +22,15 @@
 - **CodeChef**: 2★  
 - **AtCoder**: Brown  
 - Strong background in **Competitive Programming** and **Problem Solving**  
-
 <br>
 ## 📚 Problem Solving
 - Solved **~2000 problems** across various platforms.  
 - Covered a wide range of topics in **Data Structures** and **Advanced Algorithms**.  
+
+
 <br>
+
+
 ## 🛠️ My Skills
 <p align="center">
     &emsp;
