@@ -18,7 +18,7 @@
 
 ## 🏆 Achievements  
 - **ECPC Finalist**  
-- **Codeforces**: Pupil  
+- **Codeforces**: <h4>specialist</h4?  
 - **CodeChef**: 2★  
 - **AtCoder**: Brown  
 - Strong background in **Competitive Programming** and **Problem Solving**  
