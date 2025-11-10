@@ -8,7 +8,7 @@
 
 - 🏫 I am a `Junior` from the [Faculty of Computers and Artificial Intelligence](https://www.helwan.edu.eg/en/faculty-of-computers-and-artificial-intelligence/) at [Helwan University](https://www.helwan.edu.eg/).  
 
-- 👨‍🎓 I’m currently learning `Frontend` and `Backend (Spring Boot)`.  
+- 👨‍🎓 I’m currently learning `Frontend(React)` and `Backend (Spring Boot)`.  
 - 📚 I have a strong passion for problem-solving and enjoy tackling challenges in competitive programming and data structures & algorithms.
 - 👨‍🏫 I am an `Instructor` at **ICPC Helwan Community**.  
 
