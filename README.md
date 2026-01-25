@@ -29,7 +29,14 @@
 
 
 <br>
+## Problem-Solving Stats
 
+| LeetCode | Codeforces |
+|---|---|
+| ![LeetCode](https://leetcode.card.workers.dev/mahmoudsasky?theme=dark&font=baloo&extension=null) | ![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=mahmoud-aziz&theme=dark) |
+
+
+<br>
 
 ## 🛠️ My Skills
 <p align="center">
