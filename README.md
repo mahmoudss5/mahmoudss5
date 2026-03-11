@@ -8,7 +8,7 @@
 
 - 🏫 I am a `Junior` from the [Faculty of Computers and Artificial Intelligence](https://www.helwan.edu.eg/en/faculty-of-computers-and-artificial-intelligence/) at [Helwan University](https://www.helwan.edu.eg/).  
 
-- 👨‍🎓 I’m currently learning `Frontend(React)` and `Backend (Spring Boot)`.  
+- 👨‍🎓 I'm currently learning `Frontend(React)` and `Backend (Spring Boot)`.  
 - 📚 I have a strong passion for problem-solving and enjoy tackling challenges in competitive programming and data structures & algorithms.
 - 👨‍🏫 I am an `Instructor` at **ICPC Helwan Community**.  
 
@@ -51,11 +51,19 @@
     &emsp;
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     &emsp;
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+    &emsp;
     <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     &emsp;
     <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     &emsp;
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    &emsp;
+    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
+    &emsp;
+    <img src="https://img.shields.io/badge/WebSocket-%23010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white">
+    &emsp;
+    <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white">
     &emsp;
     <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
     &emsp;
@@ -92,4 +100,4 @@
             src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/mahmoud-aziz-5a165b298"><img
             src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p
+</p>
