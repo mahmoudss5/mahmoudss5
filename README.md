@@ -1,105 +1,118 @@
+<h1 align="center">Hi 👋, I'm Mahmoud Alaa</h1>
 
-## 🌟 About Me
+<h3 align="center">
+Backend Developer • Competitive Programmer • Instructor & Coach
+</h3>
+
 <p align="center">
-    <a href="https://git.io/typing-svg"><img
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&center=true&vCenter=true&random=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Software+Engineer;Instructor;Head+of+Mentors+at+ICPC+Helwan+Community"/></a>
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Backend+Developer;Competitive+Programmer;Codeforces+Specialist;ICPC+Instructor+%26+Coach;Head+of+Mentors+at+ICPC+Helwan"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
 
-- 🏫 I am a `Junior` from the [Faculty of Computers and Artificial Intelligence](https://www.helwan.edu.eg/en/faculty-of-computers-and-artificial-intelligence/) at [Helwan University](https://www.helwan.edu.eg/).  
+---
 
-- 👨‍🎓 I'm currently learning `Frontend(React)` and `Backend (Spring Boot)`.  
-- 📚 I have a strong passion for problem-solving and enjoy tackling challenges in competitive programming and data structures & algorithms.
-- 👨‍🏫 I am an `Instructor` at **ICPC Helwan Community**.  
+## 👨‍💻 About Me
 
-- 🚀 I am also the `Head of Mentors` at **ICPC Helwan Community**.  
+- 🎓 Computer Science student at **Helwan University**
+- 💻 Backend Developer focused on **Java, Spring Boot, .NET & FastAPI**
+- 🧠 Competitive Programmer with **2000+ problems solved**
+- 🔵 **Codeforces Specialist**
+- 🏆 **ECPC Finalist — 2024 & 2025**
+- 👨‍🏫 **Instructor & Head of Mentors** at ICPC Helwan Community
+- 🎯 Coaching competitive programming teams and mentoring students in **Algorithms & Data Structures**
 
-<br>
+---
 
-## 🏆 Achievements  
-- **ECPC Finalist**  
-- **Codeforces**: specialist  
-- **CodeChef**: 2★  
-- **AtCoder**: Brown  
-- Strong background in **Competitive Programming** and **Problem Solving**  
-<br>
- 📚 Problem Solving
-- Solved ~2000 problems across various platforms.  
-- Covered a wide range of topics in <strong>Data Structures</strong> and <strong>Advanced Algorithms</strong>.  
+## 🧠 Competitive Programming
 
+<p align="center">
 
-<br>
-## Problem-Solving Stats
+<a href="https://codeforces.com/profile/mahmoud_aziz">
+<img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
+</a>
+
+<a href="https://leetcode.com/u/mahmoudsasky/">
+<img src="https://img.shields.io/badge/Problems%20Solved-2000%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
+
+<img src="https://img.shields.io/badge/ECPC-Finalist-gold?style=for-the-badge">
+
+</p>
+
+Focused on:
+
+`Dynamic Programming` • `Graphs` • `Data Structures` • `Segment Trees` • `SCC` • `Hashing` • `KMP` • `Algorithms`
+
+---
+
+## 👨‍🏫 Mentorship & Coaching
+
+Currently **Head of Mentors & Instructor at ICPC Helwan Community**.
+
+- Teaching competitive programming and problem-solving
+- Training students in **Graphs, Dynamic Programming & Advanced Data Structures**
+- Coaching teams preparing for **ECPC**
+- Leading and mentoring a community of **200+ students**
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+### Databases & Distributed Systems
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+</p>
+
+### Tools & DevOps
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
+
+---
+
+## 📊 Problem Solving Stats
 
 | LeetCode | Codeforces |
 |---|---|
 | ![LeetCode](https://leetcode.card.workers.dev/mahmoudsasky?theme=dark&font=baloo&extension=null) | ![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=mahmoud-aziz&theme=dark) |
 
+---
 
-<br>
+## 📫 Connect With Me
 
-## 🛠️ My Skills
 <p align="center">
-    &emsp;
-    <img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white">
-    &emsp;
-    <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    &emsp;
-    <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
-    &emsp;
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    &emsp;
-    <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    &emsp;
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-    &emsp;
-    <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    &emsp;
-    <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    &emsp;
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    &emsp;
-    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
-    &emsp;
-    <img src="https://img.shields.io/badge/WebSocket-%23010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white">
-    &emsp;
-    <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white">
-    &emsp;
-    <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-    &emsp;
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-    &emsp;
-    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-    &emsp;
-    <img src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-    &emsp;
-    <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
-    &emsp;
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    &emsp;
-    <img src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white">
-    &emsp;
-    <img src="https://img.shields.io/badge/problem%20solving-%23000000.svg?style=for-the-badge&logo=codeforces&logoColor=white">
-    &emsp;
-    <img src="https://img.shields.io/badge/PHP-%237A4E9D.svg?style=for-the-badge&logo=php&logoColor=white">
-    &emsp;
-    <img src="https://img.shields.io/badge/Linux-%2326CC42.svg?style=for-the-badge&logo=linux&logoColor=white">
-    &emsp;
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    &emsp;
-    <a href="https://codeforces.com/profile/mahmoud_aziz"><img src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white"></a>
-    &emsp;
-    <a href="https://leetcode.com/u/mahmoudsasky/"><img src="https://img.shields.io/badge/LeetCode%20-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=white"></a>
-</p>  
 
-<br>
+<a href="mailto:mahmood444e@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-## ☎️ Contact Me
-<p align="center">
-    <a href="mailto:mahmood444e@gmail.com"><img
-            src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/mahmoud-aziz-5a165b298"><img
-            src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/hmoudalaa">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/mahmoudss5">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </p>
