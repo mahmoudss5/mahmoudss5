@@ -21,7 +21,7 @@ Backend Developer • Competitive Programmer • Instructor & Coach
 - 💻 Backend Developer focused on **Java, Spring Boot, .NET & FastAPI**
 - 🧠 Competitive Programmer with **2000+ problems solved**
 - 🔵 **Codeforces Specialist**
-- 🏆 **ECPC Finalist — 2024 & 2025**
+- 🏆 **ECPC Finalist — 2025**
 - 👨‍🏫 **Instructor & Head of Mentors** at ICPC Helwan Community
 - 🎯 Coaching competitive programming teams and mentoring students in **Algorithms & Data Structures**
 
