@@ -56,7 +56,7 @@ Currently **Head of Mentors & Instructor at ICPC Helwan Community**.
 - Teaching competitive programming and problem-solving
 - Training students in **Graphs, Dynamic Programming & Advanced Data Structures**
 - Coaching teams preparing for **ECPC**
-- Leading and mentoring a community of **200+ students**
+- Leading and mentoring a community of **1200+ students**
 
 ---
 
